@@ -7,5 +7,5 @@ eureka:
  
 ---
 spring:
-  profiles: noun
+  profiles: rjpard-discovery-config-client-noun
 words: boat,book,vote,seat,backpack,partition,groundhog
