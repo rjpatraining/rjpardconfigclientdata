@@ -9,3 +9,8 @@ eureka:
 spring:
   profiles: noun
 words: boat,book,vote,seat,backpack,partition,groundhog
+
+---
+spring:
+  profiles: subject
+words: I,You,He,She,It
